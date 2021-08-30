@@ -1900,7 +1900,7 @@
             
         }
    });
-       if(!bandera){alert("CEDULA NO INGRESADA");}
+       if(!bandera){alert("CEDULA NO INGRESADA O INCORRECTA");}
 }
    
    
